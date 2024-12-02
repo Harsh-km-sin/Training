@@ -1,0 +1,48 @@
+h1 {   
+   /* margin: 20px 40px;  short hand style*/
+   background-color : lightblue;
+   margin: auto;
+   /* padding-top: 30px; */
+   /* padding:30px; */
+   padding: 40px 10px;
+   height: 100px;
+   width: auto;
+   text-transform: uppercase;
+}
+body {
+   background-image :  url("https://img.freepik.com/free-photo/blue-smooth-wall-textured-background_53876-106133.jpg?t=st=1733114900~exp=1733118500~hmac=e445ff9d0b1c4ccdb260dba755db44dd88b5ff2c574513c18712bdd25a251c3d&w=996");
+
+   /* background-repeat: no-repeat;
+   background-position: top right;
+   background-attachment: fixed; */
+}
+
+p {  
+    text-indent: 20px;
+    border: 2px solid red;
+    border-radius: 5px;
+    background-color: lightblue;
+    color: red;
+    text-align: center;
+    }
+.container{
+    margin: auto;
+    width: 200px;
+    border: 2px solid red;
+    /* outline: 4px solid red;  short hand style*/
+    outline-style: solid;
+    outline-width: 3px;
+    outline-color: rgb(248, 182, 182);
+}
+
+a{
+    border: 2px solid red;
+    border-radius: 5px;
+    background-color: lightblue;
+    text-decoration: none;
+    width: 200px;
+    display: inline-block;
+    width: 198px;
+    text-align: center;
+}
+
